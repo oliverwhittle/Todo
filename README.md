@@ -1,7 +1,26 @@
-# Vue 3 + Vite
+# ✅ Todo App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple and elegant Todo List app built with **Vue.js**. Add, delete, and manage your daily tasks with ease in a clean and responsive UI.
 
-## Recommended IDE Setup
+## 🌟 Features
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- ✅ Add new tasks
+- 🗑️ Delete tasks
+- ☑️ Mark tasks as complete/incomplete
+- 💾 Local storage support (tasks persist across sessions)
+- 📱 Responsive design for mobile and desktop
+
+## 🛠️ Tech Stack
+
+- [Vue.js 2/3](https://vuejs.org/)
+- HTML & CSS
+- JavaScript (ES6)
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/oliverwhittle/Todo.git
+cd Todo
+npm run build
